@@ -9,3 +9,5 @@ __pycache__/
 *.csv
 dados_ciclo_basic/
 dados_copa_do_mundo/
+
+.env
