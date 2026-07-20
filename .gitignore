@@ -6,8 +6,7 @@ __pycache__/
 .DS_Store
 .vscode/
 *.log
-*.csv
-dados_ciclo_basic/
-dados_copa_do_mundo/
-
 .env
+
+# dados nao sao versionados: veja o README para como obte-los localmente
+dados/
